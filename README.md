@@ -65,17 +65,20 @@ August: +29.70%
 February recorded the highest month-to-month growth during the period. Although sales declined during several months, August showed a strong recovery.
 
 
-Interactive Dashboard
+Interactive Dashboard:
 The dashboard brings the analysis together using KPI cards, charts, a category slicer, and a date timeline.
 
-Business Recommendations
+Business Recommendations:
 Investigate the factors contributing to Product A's strong sales performance.
 Investigate the factors behind Product D's weaker performance before deciding on corrective action.
 Examine why Skincare generates stronger sales than Body Care and identify factors that may help improve the weaker category.
 Further analyze the purchasing behavior of top customers to understand whether customer value is driven primarily by purchase frequency, order value, or both.
 
-What I Learned
+What I Learned:
 This project strengthened my ability to move from raw data to business insights using the following analytical workflow:
 Understand → Inspect → Clean → Analyze → Visualize → Recommend
 
 I also practiced building interactive Excel dashboards using PivotTables, PivotCharts, Slicers, Timeline filters, and KPI cards.
+
+Project Files
+PK
